@@ -1,2 +1,4 @@
-# telegram_bot_dictionaryQA
-telegram bot dictionaryQA
+# tg_dictionary
+Телеграм бот-словарик
+
+Бот, который умеет принимать абрривиатуры и возвращать определение
